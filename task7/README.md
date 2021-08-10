@@ -11,8 +11,11 @@
 ## 2. Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 
 eg: 
+
 input 1, show 1000
+
 input 1234, show 1234000
+
 .....
 
 https://github.com/Dex68/nervos_gitcoin/tree/main/task7/Multiplied_by_1000
